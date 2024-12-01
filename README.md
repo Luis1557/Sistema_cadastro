@@ -54,6 +54,10 @@ Para sair do programa, selecione a opção 4.
 O programa aloca dinamicamente memória para armazenar os cadastros. Certifique-se de que a memória seja liberada corretamente ao final da execução.
 O CPF deve ser inserido sem caracteres especiais e deve ter exatamente 11 dígitos (sem o dígito verificador).
 
-### Execução do programa:
+### Execução do programa: ![imagem_2024-12-01_001128137](https://github.com/user-attachments/assets/2266eead-2f87-4308-9476-d36310967f93)
+
+
+
+
 
 
